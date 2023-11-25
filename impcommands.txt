@@ -1,0 +1,4 @@
+npm i -g @angular/cli
+ng new your-app-name
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+Set-ExecutionPolicy Default -Scope CurrentUser
